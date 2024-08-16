@@ -12,7 +12,7 @@ Once installed, the script will add a download button near the save post button 
 ## How do I install/uninstall it?
 
 Install the [Tampermonkey](https://www.tampermonkey.net/) extension in your favorite browser, then either
-[Click Here](/InstaSaver.user.js) or manually add the bundled `*.user.js` file.
+[Click Here](https://github.com/tas33n/instaSaver/raw/main/InstaSaver.user.js) or manually add the bundled `*.user.js` file.
 
 You can uninstall it directly from the Tampermonkey dashboard.
 
